@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">moduleThirteenLimerick</string>
+    <string name="txtTitle">Limerick</string>
+    <string name="imgLimerick">Limerick, Ireland</string>
+    <string name="txtCity">City:</string>
+    <string name="txtOccupation">Occupation:</string>
+    <string name="txtNumber">Number:</string>
+    <string name="txtActionVerb">Action Verb:</string>
+    <string name="btnSubmit">Submit Answers</string>
+    <string name="txtHInt1">Pick a City</string>
+    <string name="txtHint2">Pick an Occupation</string>
+    <string name="txtHint3">Pick a Number</string>
+    <string name="txtHInt4">Pick an Action Verb</string>
+    <string name="txtLimerick1a">When I am in</string>
+    <string name="txtLimerick1b">I need to pee.</string>
+    <string name="txtLimerick2a">If I were a</string>
+    <string name="txtLimerick2b">I would flee.</string>
+    <string name="txtLimerick3a">Since I am</string>
+    <string name="txtLimerick3b">everything is okay</string>
+    <string name="txtLimerick4">I insist that I must say</string>
+    <string name="txtLimerick5a">On bad days I could</string>
+    <string name="txtLimerick5b">with a tree.</string>
+</resources>
